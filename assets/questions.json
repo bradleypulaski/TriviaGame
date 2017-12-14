@@ -1,0 +1,102 @@
+{
+    "What is the capital of Hawaii?": {
+        "answers": {
+            "Kailua": 0,
+            "Honolulu": 1,
+            "Haiku": 0,
+            "Puwai": 0
+        },
+        "image": "assets/images/answers/honolulu.jpg",
+        "answer": "Honolulu"
+    },
+    "What is the front of a surfboard called?": {
+        "answers": {
+            "Rail": 0,
+            "Stringer": 0,
+            "Nose": 1,
+            "Face": 0
+        },
+        "image": "assets/images/answers/nose.jpg",
+        "answer": "Nose"
+    },
+    "Who invented surfing?": {
+        "answers": {
+            "Eskimos": 0,
+            "Aboriginals": 0,
+            "Water Benders": 0,
+            "Polynesians": 1
+        },
+        "image": "assets/images/answers/polynesians.jpg",
+        "answer": "Polynesians"
+    },
+    "What is the frontmost part of the ship called?": {
+        "answers": {
+            "Head": 0,
+            "Bow": 1,
+            "Cockpit": 0,
+            "Poop Deck": 0
+        },
+        "image": "assets/images/answers/bow.jpg",
+        "answer": "Bow"
+    },
+    "in Hawaiian mythology Māui snared which cosmic entity to stop it from moving too quickly?": {
+        "answers": {
+            "The Earth": 0,
+            "The Moon": 0,
+            "The Sun": 1,
+            "The Sky": 0
+        },
+        "image": "assets/images/answers/sun.gif",
+        "answer": "The Sun"
+    },
+    "What is the largest species of Shark?": {
+        "answers": {
+            "Whale Shark": 1,
+            "Great White Shark": 0,
+            "Greenland Shark": 0,
+            "Blue Reef Shark": 0
+        },
+        "image": "assets/images/answers/whaleshark.gif",
+        "answer": "Whale Shark"
+    },
+    "Which wave is the largest wave in the ocean?": {
+        "answers": {
+            "Seiche": 0,
+            "Wind Wave": 0,
+            "Seismic Sea Wave": 1,
+            "Capillary Wave": 0
+        },
+        "image": "assets/images/answers/tsunami.gif",
+        "answer": "Seismic Sea Wave"
+    },
+    "The great Barrier Reef is off the coast of which place?": {
+        "answers": {
+            "Barbados": 0,
+            "St Thomas": 0,
+            "Jamaica": 0,
+            "Australia": 1
+        },
+        "image": "assets/images/answers/australia.jpg",
+        "answer": "Australia"
+    },
+    "Fish travel in?": {
+        "answers": {
+            "Schools": 1,
+            "Airplanes": 0,
+            "Packs": 0,
+            "Busses": 0
+        },
+        "image": "assets/images/answers/fishschool.gif",
+        "answer": "Schools"
+    },
+    "Beach sand is a type of?": {
+        "answers": {
+            "Gas": 0,
+            "Liquid": 0,
+            "Sediment": 1,
+            "Radio Active Isotope": 0
+        },
+        "image": "assets/images/answers/sand.gif",
+        "answer": "Sediment"
+    }
+}
